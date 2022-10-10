@@ -1,0 +1,23 @@
+{
+  "name": "testing-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLenght.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irirwanirira/Testing-Practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irirwanirira/Testing-Practices/issues"
+  },
+  "homepage": "https://github.com/Irirwanirira/Testing-Practices#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
